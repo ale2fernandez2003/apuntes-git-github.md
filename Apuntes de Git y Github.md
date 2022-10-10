@@ -11,8 +11,14 @@ Comndo para realizar un commit: git commit -m '......'
 
 Comando para ver los commits existentes: git log
 
-![Ver commit](https://i.imgur.com/yLLODhh.png)
+Subir al github:  
 
-![Ver diferencias](https://i.imgur.com/c5YFmrd.png)
+                  git remote add origin https://github.com/ale2fernandez2003/.primer-programa-en-java.git
 
-![ver comando](https://i.imgur.com/tqrGjgR.png)
+                  git push -u origin master
+
+-[**Captura 1**](https://i.imgur.com/4Z0x8SK.png)
+
+-[**Captura 2**](https://i.imgur.com/EzKj7Wa.png)
+
+-[**Captura 3**](https://i.imgur.com/xDy2DK7.png)
