@@ -1,10 +1,12 @@
 # Apuntes de Git y Github
-comando necesario:  git --version
+Comando necesario:  git --version
 
-comando para compilar: git add .
+Comando para crear una carpeta git: git init
 
-comando para ejecutal: git status
+Comando para añadir los cambios: git add .
 
-comndo para realizar un commit: git commit -m '......'
+Comando para comprobar la estado carpeta: git status
 
-comando para ver los commits existentes: git log
+Comndo para realizar un commit: git commit -m '......'
+
+Comando para ver los commits existentes: git log
