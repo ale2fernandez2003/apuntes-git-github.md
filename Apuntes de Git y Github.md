@@ -1,3 +1,8 @@
+# Cuaderno digital Miguel
+
+-[**Cuaderno Miguel**](http://www.github.com/miguelbayon)
+
+
 # Apuntes de Git y Github
 Comando necesario:  git --version
 
@@ -21,7 +26,25 @@ Subir al github:
  
  Ver repositorios remotos: git remote -v
  
-
 -[**Listado commits**](https://i.imgur.com/mH5Ak8H.png)
 
 -[**URL del ultimo commit**](https://i.imgur.com/y5EbzxZ.png)
+
+# Clonar repositorio
+Comando para clonar un repositorio git: git clone ....
+
+-[**Error**](https://i.imgur.com/HZ1uIpw.png)
+(El error se debe a que no tengo permisos del creador original para poder editr su repositorio)
+
+-[**Comando para subir repositorio al github**](https://i.imgur.com/O9rfHJF.png)
+(Se usa de otra manera porque ya existe una URL origin)
+
+-[**Captura de mi primer repositorio**](https://i.imgur.com/UiKQHnX.png)
+
+-[**Comando para vincular el repositorio1**](https://i.imgur.com/fwvZ0SU.png)
+
+-[**Captura de mi segundo repositorio**](https://i.imgur.com/g8IQiej.png)
+
+-[**Comando para vincular el repositorio2**](https://i.imgur.com/B7WmhaG.png)
+
+-[**Repositorios vinculados**](https://i.imgur.com/4iwPgfN.png)
