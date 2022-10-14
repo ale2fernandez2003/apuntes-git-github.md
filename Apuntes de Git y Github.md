@@ -33,6 +33,8 @@ Subir al github:
 # Clonar repositorio
 Comando para clonar un repositorio git: git clone ....
 
+Comando para clonar en un lugar especifico: git clone (URL repositorio) (lugar donde quieres clonarlo)
+
 -[**Error**](https://i.imgur.com/HZ1uIpw.png)
 (El error se debe a que no tengo permisos del creador original para poder editr su repositorio)
 
@@ -50,3 +52,4 @@ Comando para clonar un repositorio git: git clone ....
 -[**Repositorios vinculados**](https://i.imgur.com/4iwPgfN.png)
 
 # Usar BLUEJ
+-[**Apuntes java**](https://github.com/ale2fernandez2003/java.git)
