@@ -55,3 +55,7 @@ Comando para clonar en un lugar especifico: git clone (URL repositorio) (lugar d
 -[**Apuntes java**](https://github.com/ale2fernandez2003/java.git)
 
 -[**Interfaz de BlueJ**](https://i.imgur.com/ek6BzaB.png)
+
+-[**Circulos diferentes**](https://i.imgur.com/yEHpP61.png)
+
+-[**Un cambio**](https://i.imgur.com/HnXeUbD.png)
