@@ -59,3 +59,10 @@ Comando para clonar en un lugar especifico: git clone (URL repositorio) (lugar d
 -[**Circulos diferentes**](https://i.imgur.com/yEHpP61.png)
 
 -[**Un cambio**](https://i.imgur.com/HnXeUbD.png)
+
+-[**Casita**](https://i.imgur.com/xh5b71W.png)
+(El estado de un objeto se refiere al conjunto de atributos y sus valores en un instante de tiempo dado. El comportamiento de un objeto puede modificar el estado de éste. Cuando una operación de un objeto modifica su estado se dice que esta tiene "efecto colateral".)
+
+Para crear la casita hay que crear un curculo yn triangulo y dos cuadrados, para que se den los colores es poner que el circulo sea "yellow", el triangulo sea "green", un cuadrado "red" y el otro cuadrado con un color que no detecte, despues seria ir moviendo de poco a poco hasta dar la forma que aparece en pantalla
+
+-[**Editar el CODE PAD**](https://i.imgur.com/c32VOlV.png)
