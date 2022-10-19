@@ -66,3 +66,5 @@ Comando para clonar en un lugar especifico: git clone (URL repositorio) (lugar d
 Para crear la casita hay que crear un curculo yn triangulo y dos cuadrados, para que se den los colores es poner que el circulo sea "yellow", el triangulo sea "green", un cuadrado "red" y el otro cuadrado con un color que no detecte, despues seria ir moviendo de poco a poco hasta dar la forma que aparece en pantalla
 
 -[**Editar el CODE PAD**](https://i.imgur.com/mfFYLhw.png)
+
+-[**Estudio de bloque de código**](https://i.imgur.com/U0dArou.png)
