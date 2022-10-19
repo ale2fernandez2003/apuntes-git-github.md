@@ -67,4 +67,5 @@ Para crear la casita hay que crear un curculo yn triangulo y dos cuadrados, para
 
 -[**Editar el CODE PAD**](https://i.imgur.com/mfFYLhw.png)
 
--[**Estudio de bloque de código**](https://i.imgur.com/U0dArou.png)
+-[**Estudio de bloque de código**](https://i.imgur.com/YxBJ6nU.png)
+(se crean 4 figuras: dos cuadrados, un triangulo y un circulo)
