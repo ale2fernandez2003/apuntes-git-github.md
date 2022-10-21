@@ -85,3 +85,9 @@ Para crear la casita hay que crear un curculo yn triangulo y dos cuadrados, para
 
 -[**cosas combiadas 2**](https://i.imgur.com/Oz5OcHL.png)
 (crear la nueva clase me costo)
+
+-[**commit 3 en git**](https://i.imgur.com/Z3Q4Ptr.png)
+
+-[**commits 3 en github**](https://i.imgur.com/iyeO31o.png)
+
+-[**cosas combiadas 3**](https://i.imgur.com/FhcOdLg.png)
