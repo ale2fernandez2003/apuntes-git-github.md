@@ -69,3 +69,9 @@ Para crear la casita hay que crear un curculo yn triangulo y dos cuadrados, para
 
 -[**Estudio de bloque de código**](https://i.imgur.com/YxBJ6nU.png)
 (se crean 4 figuras: dos cuadrados, un triangulo y un circulo)
+
+-[**commit en git**](https://i.imgur.com/TZc9sOF.png)
+
+-[**commits en github**](https://i.imgur.com/mVI3Yiz.png)
+
+-[**cosas combiadas**](https://i.imgur.com/xIwvIkE.png)
