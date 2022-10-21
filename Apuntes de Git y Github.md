@@ -78,3 +78,10 @@ Para crear la casita hay que crear un curculo yn triangulo y dos cuadrados, para
 
 -[**cosas combiadas**](https://i.imgur.com/xIwvIkE.png)
 (lo que mas me costo fue el movimiento del sol, fue lo unico que me llevo tiempo)
+
+-[**commit 2 en git**](https://i.imgur.com/k65NOky.png)
+
+-[**commits 2 en github**](https://i.imgur.com/oKO3LC2.png)
+
+-[**cosas combiadas 2**](https://i.imgur.com/Oz5OcHL.png)
+(crear la nueva clase me costo)
