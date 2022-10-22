@@ -70,7 +70,7 @@ Para crear la casita hay que crear un curculo yn triangulo y dos cuadrados, para
 -[**Estudio de bloque de código**](https://i.imgur.com/YxBJ6nU.png)
 (se crean 4 figuras: dos cuadrados, un triangulo y un circulo)
 
- #### Editar el bluej
+ ## Editar el bluej
 
 -[**commit en git**](https://i.imgur.com/TZc9sOF.png)
 
@@ -91,3 +91,12 @@ Para crear la casita hay que crear un curculo yn triangulo y dos cuadrados, para
 -[**commits 3 en github**](https://i.imgur.com/iyeO31o.png)
 
 -[**cosas combiadas 3**](https://i.imgur.com/FhcOdLg.png)
+
+#### Clase DAM
+-[**Captura 1**](https://i.imgur.com/vQyNpsq.png)
+
+-[**Captura 2**](https://i.imgur.com/RRfcy9q.png)
+
+-[**Captura 3**](https://i.imgur.com/mZ7rnPv.png)
+
+-[**Captura 4**](https://i.imgur.com/xcoGRzE.png)
