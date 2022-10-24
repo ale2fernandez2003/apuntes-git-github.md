@@ -100,3 +100,29 @@ Para crear la casita hay que crear un curculo yn triangulo y dos cuadrados, para
 -[**Captura 3**](https://i.imgur.com/mZ7rnPv.png)
 
 -[**Captura 4**](https://i.imgur.com/xcoGRzE.png)
+
+#### Maquina-Expendedora-Simple
+
+¿Se puede crear una máquina con un precio de billete negativo?
+
+Si se puede
+
+¿Qué valor devuelve la máquina si consultamos el balance del cliente actual después de haber impreso el billete?
+
+El valos es 0
+
+¿Qué sucede si invocamos el método imprimirBillete sin haber metido la cantidad de dinero correspondiente al precio del billete?
+
+Que lo imprime
+
+¿Qué sucede si introduces más dinero del precio del billete e imprimes un billete?
+
+Que recoje el dinero y el balance es 0
+
+¿Se puede introducir en la máquina cantidades negativas de dinero?
+
+Si se puede 
+
+¿Podemos introducir céntimos de euro en la máquina expendedora?
+
+No se puede introducir centimos 
