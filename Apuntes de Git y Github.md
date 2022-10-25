@@ -126,3 +126,5 @@ Si se puede
 ¿Podemos introducir céntimos de euro en la máquina expendedora?
 
 No se puede introducir centimos 
+
+-[**Imagen Codigo**](https://i.imgur.com/TYKvYBl.png)
