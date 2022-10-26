@@ -134,3 +134,5 @@ Los atributos son 5 y son: el precio, el balance y el origen de las estaciones
 
 -[**Captura 2**](https://i.imgur.com/yaBNEVo.png)
 Los atributos son 2 y son: solo es el balance y la estacion de destino
+
+Cuando creo un nuevo objeto me pide el precio del dinero, el origen y el destino y el origen no esta en el constructor 
