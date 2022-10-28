@@ -136,3 +136,5 @@ Los atributos son 5 y son: el precio, el balance y el origen de las estaciones
 Los atributos son 2 y son: solo es el balance y la estacion de destino, el precio del billete(0), el precio total(0) y el origen(null) estan de forma implicita
 
 Cuando creo un nuevo objeto me pide el precio del dinero, el origen y el destino y el origen no esta en el constructor 
+ 
+-[**captura**](https://i.imgur.com/gNUWNS0.png)"precioDelBillete" va desde el inicio del constructor hasta el final del constructor y el "precioBillete" va desde 
