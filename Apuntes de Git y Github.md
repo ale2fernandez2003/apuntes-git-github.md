@@ -137,4 +137,4 @@ Los atributos son 2 y son: solo es el balance y la estacion de destino, el preci
 
 Cuando creo un nuevo objeto me pide el precio del dinero, el origen y el destino y el origen no esta en el constructor 
  
--[**captura**](https://i.imgur.com/Q3HtcnT.png)"precioDelBillete" abarca lo q el constructor y el "precioBillete" haberca desde el inicio de una clase hasta el final de esta
+-[**captura**](https://i.imgur.com/Q3HtcnT.png)"precioDelBillete" abarca el tiempo de ejecucion del constructor y el "precioBillete" abarca el tiempo que dura el objeto
