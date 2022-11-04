@@ -139,4 +139,4 @@ Cuando creo un nuevo objeto me pide el precio del dinero, el origen y el destino
  
 -[**captura**](https://i.imgur.com/Q3HtcnT.png)"precioDelBillete" abarca el tiempo de ejecucion del constructor y el "precioBillete" abarca el tiempo que dura el objeto creado
 
--[**asignaciones**](https://i.imgur.com/FEhdpYv.png)
+-[**asignaciones**](https://i.imgur.com/H8ZNot9.png)
