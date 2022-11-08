@@ -144,3 +144,18 @@ Cuando creo un nuevo objeto me pide el precio del dinero, el origen y el destino
 - [**captura 1**](https://i.imgur.com/N0tO7Gr.png)
 
 - [**captura 2**](https://i.imgur.com/326Rowq.png)
+
+#### Pseudocódigo
+ejemplo: 
+
+  if(apruebo){
+  
+    obtendre un premio
+    
+  }
+  
+  else{
+  
+    obtendre un castigo
+    
+  }
