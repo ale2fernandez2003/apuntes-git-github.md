@@ -159,3 +159,5 @@ ejemplo:
     obtendre un castigo
     
   }
+
+si se cumple lo que este entre el parentesis de detras del if entonces contestara lo que hay en el "if", si se da el caso contrario entonces hara lo que diga el "else"
