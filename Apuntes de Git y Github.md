@@ -184,3 +184,10 @@ El pseudocódigo es una forma de escribir los pasos que va a realizar un program
     
   }
 ```
+### Estudiando la instrucción condicional de introducirDinero
+
+En el "if" tiene que ser un valor igual o mayor que 1 y no nos saldra ningun mensaje a demas que en el balance aparecera el numero que hemos introducido.
+
+Si no se da el caso anterior entonces sera un "else" por lo que pondra un mensaje diciendonos que el valor no es aceptado.
+
+Y si introducimos el numero "0" entonces nos saldra el mismo mensaje que si fuera un else.
