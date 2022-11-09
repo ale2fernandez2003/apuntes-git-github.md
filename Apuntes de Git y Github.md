@@ -171,3 +171,16 @@ El pseudocódigo es una forma de escribir los pasos que va a realizar un program
 | a          | >=       | b          | mayor o igual que |
 | a          | ==       | b          | igual que         |
 | a          | !=       | b          | distinto que      |
+
+
+```java
+  if(a+b==a*b-740){
+    invita a copas;
+    
+  }
+  
+  else{
+    invita a chupitos;
+    
+  }
+```
