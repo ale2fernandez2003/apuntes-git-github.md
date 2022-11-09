@@ -146,7 +146,8 @@ Cuando creo un nuevo objeto me pide el precio del dinero, el origen y el destino
 - [**captura 2**](https://i.imgur.com/326Rowq.png)
 
 #### Pseudocódigo
-ejemplo: 
+ejemplo:
+
 ```java
   if(apruebo){
     obtendre un premio
@@ -158,3 +159,15 @@ ejemplo:
     
   }
 ```
+El pseudocódigo es una forma de escribir los pasos que va a realizar un programa
+
+#### Operadores relacionales
+
+| Operando 1 | Operador | Operando 2 | Significado       |
+|------------|----------|------------|-------------------|
+| a          | <        | b          | menor que         |
+| a          | >        | b          | mayor que         |
+| a          | <=       | b          | menor o igual que |
+| a          | >=       | b          | mayor o igual que |
+| a          | ==       | b          | igual que         |
+| a          | !=       | b          | distinto que      |
