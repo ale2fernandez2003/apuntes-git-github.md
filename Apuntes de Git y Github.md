@@ -196,4 +196,5 @@ Y si introducimos el numero "0" entonces nos saldra el mismo mensaje que si fuer
 
 -[**captura**](https://i.imgur.com/4zCO21A.png)
 
+en la mejorada gasta solo lo que vale el billete y en la simple quita todo el dinero que tenia en el balance 
 en el balance del cliente ahora te devuelve lo que te falta despues de imprimir y no es como antes que devolvia el numero 0
