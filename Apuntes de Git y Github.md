@@ -191,3 +191,9 @@ En el "if" tiene que ser un valor igual o mayor que 1 y no nos saldra ningun men
 Si no se da el caso anterior entonces sera un "else" por lo que pondra un mensaje diciendonos que el valor no es aceptado.
 
 Y si introducimos el numero "0" entonces nos saldra el mismo mensaje que si fuera un else.
+
+### Diferencias maquinas expendedoras
+
+-[**captura**](https://i.imgur.com/4zCO21A.png)
+
+en el balance del cliente ahora te devuelve lo que te falta despues de imprimir y no es como antes que devolvia el numero 0
