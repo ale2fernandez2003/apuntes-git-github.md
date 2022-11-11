@@ -201,3 +201,5 @@ en el balance del cliente ahora te devuelve lo que te falta despues de imprimir 
 
 
 -[**Método imprimiBillete sin parte else**](https://i.imgur.com/uU7lDEN.png)
+
+no imprime al no ejecutarse
