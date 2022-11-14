@@ -203,3 +203,42 @@ en el balance del cliente ahora te devuelve lo que te falta despues de imprimir 
 -[**Método imprimiBillete sin parte else**](https://i.imgur.com/uU7lDEN.png)
 
 no imprime al no ejecutarse
+
+
+### Investigando cómo escribir la instrucción condicional
+
+```java
+if (calificacion<5){
+  me castigaran 
+  
+}
+```
+
+```java
+if (no como){
+  tengo hambre
+  
+}
+
+else{
+  ya no tengo hambre
+  
+}
+```
+
+```java
+if (calificacion<4.99) {
+  obtendre castigo
+
+}
+
+else if (calificacion==10) {
+  obtendre un premio
+
+}
+
+else {
+  aprobare
+
+}
+```
