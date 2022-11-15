@@ -246,3 +246,5 @@ else {
 -[**captura**](https://i.imgur.com/Ky2CDhu.png)
 
 Indentar significa hacer espacios hacia la derecha para mover una línea de código, lo podés hacer usando la barra espaciadora o con la tecla de tabulación
+
+-[**mal identado**](https://i.imgur.com/h8ORC2q.png)
