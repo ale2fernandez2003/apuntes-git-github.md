@@ -264,20 +264,20 @@ void temperaturaMaximaMensual(int array[]) {
   
   for(int i=1;i<array2.length;i++) {
     if(array2[i-1]<array2[i]) {   
-       x=i;
-       c++;    
+      x=i;
+      c++;    
     }
     else {
-       x=0;
-       for(int j=0;j<array2.length-i;j++) {
-        if(array2[j]>array2[j+1]) {
-           k=array2[j+1]; 
-            array2[j+1]=array2[j]; 
-            array2[j]=k;
+      x=0;
+      for(int j=0;j<array2.length-i;j++) {
+       if(array2[j]>array2[j+1]) {
+         k=array2[j+1]; 
+         array2[j+1]=array2[j]; 
+         array2[j]=k;
        } 
+      }
     }
-  }
-  JOptionPane.showMessageDialog(null,"La temperatura: "+array2[MAX-1]+" Día: "+(x-1));
+    JOptionPane.showMessageDialog(null,"La temperatura: "+array2[MAX-1]+" Día: "+(x-1));
   }
 }
 ```
