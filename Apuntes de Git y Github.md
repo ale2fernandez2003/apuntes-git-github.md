@@ -283,4 +283,4 @@ void temperaturaMaximaMensual(int array[]) {
 ```
 -[**captura1**](https://i.imgur.com/drZrIyK.png)
 
--[**captura2**]()
+-[**captura2**](https://i.imgur.com/kfpvjCz.png)
