@@ -251,6 +251,7 @@ Indentar significa hacer espacios hacia la derecha para mover una línea de cód
 
 ### Corregir codigo 
 
+```java
 void temperaturaMaximaMensual(int array[]) {
   int tmp=0;
   String cad="";
@@ -258,12 +259,15 @@ void temperaturaMaximaMensual(int array[]) {
          
   for(int i=0;i<array.length;i++) {
     array2[i]=array[i];
-  }   
+    
+  } 
   int k=0,x=0,c=0;
   for(int i=1;i<array2.length;i++) {
+  
     if(array2[i-1]<array2[i]) {   
      x=i;
      c++;    
+     
     }
   else {
     x=0;
@@ -273,8 +277,13 @@ void temperaturaMaximaMensual(int array[]) {
         array2[j+1]=array2[j]; 
         array2[j]=k;
       }
+      
     }
+    
   }
+  
   JOptionPane.showMessageDialog(null,"La temperatura: "+array2[MAX-1]+" Día: "+(x-1));
   }
+  
 }
+```
