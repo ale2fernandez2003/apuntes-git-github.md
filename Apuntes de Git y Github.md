@@ -286,3 +286,5 @@ void temperaturaMaximaMensual(int array[]) {
 -[**captura2**](https://i.imgur.com/kfpvjCz.png)
 
 -[**diferentes formas**](https://i.imgur.com/44Gcm6e.png)
+
+-[**calculos**](https://i.imgur.com/QbjuTwk.png)
