@@ -290,3 +290,5 @@ void temperaturaMaximaMensual(int array[]) {
 -[**calculos**](https://i.imgur.com/QbjuTwk.png)
 
 Se usa para dividir dos números y devuelve solo el resto.
+
+en los calculos matematicos tienen preferencia las multiplicaciones y las divisiones sobre las sumas y las restas 
