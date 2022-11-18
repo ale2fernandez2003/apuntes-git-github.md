@@ -299,6 +299,6 @@ Se usa para dividir dos números y devuelve solo el resto.
  ```
 en los calculos matematicos tienen preferencia las multiplicaciones y las divisiones sobre las sumas y las restas 
 
-El error más común que cometen aquellos que comienzan a programar en Java es pensar que es facil y se aprende sin esfuerzo.
+El error más común que cometen aquellos que comienzan a programar y puede hacerte perder una cantidad de tiempo enorme hasta que descubras que tu error fue poner un símbolo = en vez de dos.
 
-Otro error muy común es creer que lo sabes todo.
+Otro error muy común cuando se empieza a programar en Java
