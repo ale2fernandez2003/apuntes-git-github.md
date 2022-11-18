@@ -288,3 +288,4 @@ void temperaturaMaximaMensual(int array[]) {
 -[**diferentes formas**](https://i.imgur.com/44Gcm6e.png)
 
 -[**calculos**](https://i.imgur.com/QbjuTwk.png)
+Se usa para dividir dos números y devuelve solo el resto.
