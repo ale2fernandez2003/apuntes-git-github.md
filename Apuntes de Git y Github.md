@@ -291,4 +291,10 @@ void temperaturaMaximaMensual(int array[]) {
 
 Se usa para dividir dos números y devuelve solo el resto.
 
+```java
+8 + 2 * 2
+  12   (int)
+4 - 6 / 2
+  1   (int)
+ ```
 en los calculos matematicos tienen preferencia las multiplicaciones y las divisiones sobre las sumas y las restas 
