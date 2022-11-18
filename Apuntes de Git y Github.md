@@ -298,3 +298,7 @@ Se usa para dividir dos números y devuelve solo el resto.
   1   (int)
  ```
 en los calculos matematicos tienen preferencia las multiplicaciones y las divisiones sobre las sumas y las restas 
+
+El error más común que cometen aquellos que comienzan a programar en Java es pensar que es facil y se aprende sin esfuerzo.
+
+Otro error muy común es creer que lo sabes todo.
