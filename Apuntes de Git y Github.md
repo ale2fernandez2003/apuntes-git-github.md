@@ -307,3 +307,5 @@ Otro error muy común cuando se empieza a programar en Java es que los operadore
 -[**mi primer gist**](https://gist.github.com/ale2fernandez2003/4e84cf2201bbaf8004551f30ef81fa2e)
 
 Un gist es una forma que se tiene para poder compartir código usando GitHub.
+
+-[**segundo gist**](https://gist.github.com/ale2fernandez2003/b50e3dd5ef52fe6c5b920dd5b15a5ba7)
