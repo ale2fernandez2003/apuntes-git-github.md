@@ -304,4 +304,4 @@ El error más común que cometen aquellos que comienzan a programar y puede hace
 Otro error muy común cuando se empieza a programar en Java es que los operadores igual a y distinto que no deben nunca emplearse con cadenas de texto (String).
 
 ### Creacion de gist
--[**mi primer gist**] (https://gist.github.com/ale2fernandez2003/4e84cf2201bbaf8004551f30ef81fa2e)
+-[**mi primer gist**](https://gist.github.com/ale2fernandez2003/4e84cf2201bbaf8004551f30ef81fa2e)
