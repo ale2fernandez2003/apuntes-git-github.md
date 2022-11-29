@@ -302,3 +302,6 @@ en los calculos matematicos tienen preferencia las multiplicaciones y las divisi
 El error más común que cometen aquellos que comienzan a programar y puede hacerte perder una cantidad de tiempo enorme hasta que descubras que tu error fue poner un símbolo = en vez de dos.
 
 Otro error muy común cuando se empieza a programar en Java es que los operadores igual a y distinto que no deben nunca emplearse con cadenas de texto (String).
+
+### Creacion de gist
+-[**mi primer gist**] (https://gist.github.com/ale2fernandez2003/4e84cf2201bbaf8004551f30ef81fa2e)
