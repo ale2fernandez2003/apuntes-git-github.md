@@ -309,3 +309,19 @@ Otro error muy común cuando se empieza a programar en Java es que los operadore
 Un gist es una forma que se tiene para poder compartir código usando GitHub.
 
 -[**segundo gist**](https://gist.github.com/ale2fernandez2003/b50e3dd5ef52fe6c5b920dd5b15a5ba7)
+
+```java
+
+  private int dia;
+  private int mes;
+  private int ano;
+
+Atributos:
+        int numero;
+        string nombre;
+        int numDeCifras;
+
+Métodos:
+	String getObtenerFecha()
+	void fijarFecha()
+```
