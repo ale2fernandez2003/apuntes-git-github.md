@@ -312,6 +312,8 @@ Un gist es una forma que se tiene para poder compartir código usando GitHub.
 
 
 # Aplicando la abstracción para el calendario básico
+
+### ejemplo
 ```java
 
   private int dia;
@@ -326,4 +328,22 @@ Atributos:
 Métodos:
 	String getObtenerFecha()
 	void fijarFecha()
+```
+
+### reloj
+
+```java
+
+  private long segundos;
+  private int minutos;
+  private int horas;
+
+Atributos:
+        long numero;
+        int cantDigitos;
+        int cantVueltasReloj;
+
+Métodos:
+	String getObtenerHoraExacta()
+	void ponerAlarma()
 ```
