@@ -350,4 +350,4 @@ Métodos:
 
 # Operadores y expresiones lógicas o booleanas 
 
--[**Operadores booleanost**](https://imgur.com/IdwANiY)
+-[**Operadores booleanost**](https://i.imgur.com/IdwANiY.jpg)
