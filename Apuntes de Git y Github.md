@@ -347,3 +347,7 @@ Métodos:
 	String getObtenerHoraExacta()
 	void ponerAlarma()
 ```
+
+# Operadores y expresiones lógicas o booleanas 
+
+-[**Operadores booleanost**](https://imgur.com/IdwANiY)
