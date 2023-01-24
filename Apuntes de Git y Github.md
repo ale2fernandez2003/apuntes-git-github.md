@@ -351,3 +351,10 @@ Métodos:
 # Operadores y expresiones lógicas o booleanas 
 
 -[**Operadores booleanost**](https://i.imgur.com/pJp5N2f.jpg)
+
+
+# Usando el this
+
+-[**Captura**](https://i.imgur.com/tDATuum.png)
+
+-[**captura sin this**](https://i.imgur.com/47viS4a.png)
