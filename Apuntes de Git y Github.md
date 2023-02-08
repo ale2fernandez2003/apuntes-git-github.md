@@ -388,8 +388,8 @@ Métodos:
 
 # Test y sus errores
 
--[**captura 1**](https://i.imgur.com/lskX06z.png)
+-[**captura 1**](https://i.imgur.com/yKy7T9G.png)
 
--[**captura 2**](https://i.imgur.com/xSdd6VH.png)
+-[**captura 2**](https://i.imgur.com/HtjcnXG.png)
 
--[**captura 3**](https://i.imgur.com/IuWbMk6.png)
+-[**captura 3**](https://i.imgur.com/QbWW52M.png)
