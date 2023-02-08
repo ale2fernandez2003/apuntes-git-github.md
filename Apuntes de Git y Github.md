@@ -385,3 +385,11 @@ Métodos:
 #### -Como inicializarías el atributo del punto anterior usando el operador diamante.
 
 	tracks = new ArrayList<>():
+
+# Test y sus errores
+
+-[**captura 1**](https://i.imgur.com/lskX06z.png)
+
+-[**captura 2**](https://i.imgur.com/xSdd6VH.png)
+
+-[**captura 3**](https://i.imgur.com/IuWbMk6.png)
