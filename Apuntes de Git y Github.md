@@ -395,3 +395,6 @@ Métodos:
 -[**captura 3**](https://i.imgur.com/QbWW52M.png)
 
 -[**codepadd**](https://imgur.com/3rTIYA0)
+
+# Trim
+public String trim()
